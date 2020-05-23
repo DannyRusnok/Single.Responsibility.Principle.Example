@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Single.Responsibility.Principle.Example\Single.Responsibility.Principle.Example.csproj" />
+    <ProjectReference Include="..\Single.Responsibility.Principle.Example\BussinessLogic.csproj" />
   </ItemGroup>
 
 </Project>

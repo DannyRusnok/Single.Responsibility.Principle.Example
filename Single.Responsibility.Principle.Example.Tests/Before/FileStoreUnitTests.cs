@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using AutoFixture;
+using BussinessLogic.Before;
 using FluentAssertions;
-using Single.Responsibility.Principle.Example.Before;
 using Xunit;
 
-namespace Single.Responsibility.Principle.Example.Tests.Before
+namespace Tests.Before
 {
     public class FileStoreUnitTests
     {

@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using AutoFixture;
+using BussinessLogic.After;
 using FluentAssertions;
-using Single.Responsibility.Principle.Example.After;
 using Xunit;
 
-namespace Single.Responsibility.Principle.Example.Tests.After
+namespace Tests.After
 {
     public class MessageStoreUnitTests
     {

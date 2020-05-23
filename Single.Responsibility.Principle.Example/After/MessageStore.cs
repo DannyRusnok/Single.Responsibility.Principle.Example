@@ -1,4 +1,4 @@
-﻿namespace Single.Responsibility.Principle.Example.After
+﻿namespace BussinessLogic.After
 {
     public class MessageStore
     {

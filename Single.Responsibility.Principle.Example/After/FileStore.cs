@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Single.Responsibility.Principle.Example.After
+namespace BussinessLogic.After
 {
     public class FileStore
     {

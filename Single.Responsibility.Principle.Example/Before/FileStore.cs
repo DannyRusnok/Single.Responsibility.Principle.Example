@@ -2,7 +2,7 @@
 using System.IO;
 using NLog.Fluent;
 
-namespace Single.Responsibility.Principle.Example.Before
+namespace BussinessLogic.Before
 {
     public class FileStore
     {
